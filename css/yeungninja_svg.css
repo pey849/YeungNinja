@@ -1,0 +1,45 @@
+/*----CSS for SVG-----*/
+svg
+{
+  width: 100%;
+  height: 100%;
+  }
+
+  path, line, polyline {
+    stroke: white;
+    stroke-width: 2px;
+  }
+
+  path {
+    fill: transparent;
+  }
+}
+
+.svg_background{
+  background-color: cornflowerblue;
+}
+
+.sto{
+  fill:#fff;
+  stroke:#000000;
+  stroke-width:5px;
+  stroke-miterlimit:5px;
+}
+
+#Layer_1{
+  margin-left:auto; margin-right:auto; display:block;
+}
+
+#Layer_1:hover .st0{
+  fill:#000;
+  transition: .8s;
+}
+
+#Layer_1:hover .st1{
+  fill:#000;
+  transition: .8s;
+}
+#Layer_1:hover .st2{
+  fill:#000;
+  transition: .8s;
+}

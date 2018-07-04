@@ -1,0 +1,294 @@
+/*Parallax Stuff*/
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+/*Section Breaks for Parallax*/
+
+.break_aboutMe{
+  padding: 5%;
+  background-color: #1e1e1e;
+  min-width: 100%;
+}
+
+.break_Photography{
+  padding: 5%;
+  background-color: rgb(0,0,0);
+  min-width: 100%;
+}
+
+.break_HowTo{
+  padding: 5%;
+  background-color: rgb(0,0,0);
+  min-width: 100%;
+}
+
+.break_Contact{
+  padding: 5%;
+  background-color: rgb(0,0,0);
+  min-width: 100%;
+}
+
+
+/*Text Families*/
+h1 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+/*  line-height: 26.4px;*/
+}
+
+h2 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+/*  line-height: 15.4px;*/
+}
+
+h3 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+/*  line-height: 15.4px;*/
+}
+
+h4 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+/*  line-height: 15.4px;*/
+}
+p {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+/*  line-height: 20px;*/
+}
+
+
+
+/*Text Manipulation and Styling*/
+
+.basic_info{
+
+ /* background-color: rgba(255,255,255,0.5);*/
+ 
+  line-height: 1.7em;
+  border-radius: 25px;
+  -webkit-animation-duration:5s;
+}
+
+#about-me h3{
+
+  color: white;
+  font-size: 2em;
+  text-shadow: 4px 4px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+       
+}
+
+#about-me h1{
+  color: white;
+  font-size: 4em;
+  text-shadow: 4px 4px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.section_break_info_title{
+  color: #F5F5F5;
+  -webkit-animation-duration:5s;
+}
+
+.section_break_info{
+  color: #F5F5F5;
+  text-align: justify;
+  line-height: 30px;
+  -webkit-animation-duration:5s;
+}
+
+.photography_section{
+  color:white ;
+  line-height: 1.7em;
+  border-radius: 25px;
+  -webkit-animation-duration:5s;
+}
+
+#photography_section h1{
+  color: white;
+  font-size: 4em;
+  text-shadow: 4px 4px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+#photography_section h2, h3, h4{
+  color: white;
+  font-size: 3em;
+  text-shadow: 2px 2px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+
+.section_break_photo_title{
+  color:#70dc70;
+  -webkit-animation-duration:5s;
+}
+
+.section_break_photo{
+  color:#b9b9b9;
+  text-align: justify;
+  line-height: 30px;
+  -webkit-animation-duration:5s;
+}
+
+.section_break_howto_title{
+  color: #F5F5F5;
+  -webkit-animation-duration:5s;
+}
+
+.section_break_howto{
+  color:#b9b9b9;
+  text-align: justify;
+  line-height: 30px;
+  -webkit-animation-duration:5s;
+}
+
+.section_break_contact_title{
+  color: #F5F5F5;
+  -webkit-animation-duration:5s;
+}
+
+.section_break_contact_info{
+  text-align: justify;
+  line-height: 30px;
+  -webkit-animation-duration:5s;
+}
+
+#contact_section h1{
+  color: white;
+  font-size: 4em;
+  text-shadow:4px 4px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+#contact_section p{
+  color: white;
+  font-size: 1.8em;
+  text-shadow:4px 4px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+/*Images Manipluations*/
+
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg-1 { 
+  background-image: url("../photos/IMG_8324.JPG");
+  min-height: 100%;
+  min-width: 100%;
+}
+
+
+
+.bgimg-2 { 
+
+  background-image: url("../photos/IMG_8351.JPG");
+  color: #ffffff;
+  min-height: 90%;
+  min-width: 100%;
+  color: #777;
+
+  padding:10%;
+}
+
+
+.bgimg-3 { 
+  background-image: url("../photos/IMG_9047-02.jpeg");
+  color: #ffffff;
+  min-height: 90%;
+  min-width: 100%;
+  padding:5%;
+}
+
+.bgimg-4 { 
+  background-image: url("../photos/IMG_8841-01.jpeg");
+  color: #ffffff;
+  min-height: 100%;
+  min-width: 100%;
+  padding:20%;
+}
+
+.house_rules{
+  max-height: 70%;
+  max-width: 70%;
+  border-radius: 10px;
+    
+}
+
+
+
+/* Required  CSS for viewportchecker*/
+
+.picture {display:none}
+.hideme{
+  opacity: 0;
+}
+
+.visible{
+  opacity: 1;
+}
+
+.w3-closebtn{
+  color: blue;
+}
+
+
+/*Responsive Video*/
+
+.responsive-video {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 60px; overflow: hidden;
+}
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 80%;
+}
