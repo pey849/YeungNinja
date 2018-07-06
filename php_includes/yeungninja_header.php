@@ -14,13 +14,13 @@
 
 <!--Personal Javascript-->
 <script src="js/createSVGTitle.js"></script>
-<!--<script src="js/scroll_spy.js"></script>-->
+<script src="js/scroll_spy.js"></script>
+<script src="js/create_fades.js"></script>
 
 
 <!--External JS-->
-<!--For Svg Drawing 
+<!--For Svg Drawing -->
 <script src="js/external/vendor/modernizr-2.7.1.min.js"></script>
--->
 <script src="js/external/walkway.js"></script>
 
 <!-- For Navigation -->
@@ -33,7 +33,7 @@
 
 <!-- WOW Animation -->
 <link rel="stylesheet" href="css/external/animate.css">
-<!--<script src="js/external/wow.min.js"></script>-->
+<script src="js/external/wow.min.js"></script>
 
 
 

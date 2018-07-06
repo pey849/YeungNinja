@@ -182,7 +182,7 @@
 			
             <div class="row photography_section">
                   <br>
-                  <!--
+                  <!-- -->
                   <div class="col-sm-3">
                         <img alt="Nothing to See" src="https://bytebucket.org/lyr/cmpt-370-project/raw/a378d76276aa4f33791b5c02650a475bc1801fd9/Scroller/User%20Manual/Images/game.PNG?token=cef587510321d1aa7a34bea2295cfd15a15d6249" style="width:100%;cursor:pointer"
                         onclick="onClick(this)" class="w3-hover-opacity">
@@ -195,7 +195,7 @@
                         <img alt="Nothing to See" src="https://bytebucket.org/lyr/cmpt-370-project/raw/a378d76276aa4f33791b5c02650a475bc1801fd9/Scroller/User%20Manual/Images/sp_enterandplay.PNG?token=650d253bb184801ed0e212dfabcb19294748e927" style="width:100%;cursor:pointer"
                         onclick="onClick(this)" class="w3-hover-opacity">
                   </div>
-            -->
+           
             </div>
 
             <div class="row">

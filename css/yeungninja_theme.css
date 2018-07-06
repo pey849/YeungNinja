@@ -207,7 +207,6 @@ p {
 /*Images Manipluations*/
 
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
-  position: relative;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -259,16 +258,16 @@ p {
 
 
 
-/* Required  CSS for viewportchecker*/
+/* Required  CSS for viewportchecker}
+
 
 .picture {display:none}
 .hideme{
   opacity: 0;
-}
+}*/
 
 .visible{
   opacity: 1;
-}
 
 .w3-closebtn{
   color: blue;
