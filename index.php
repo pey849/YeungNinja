@@ -297,11 +297,11 @@
       </div>
 
       <!-- Fourth Container (Grid) -->
-      <div  class="container-fluid bgimg-3 break_HowTo">
+      <div  class="container-fluid bgimg-3">
 
 
-            <div class="col-sm-9 responsive-video section_break_howto_title">
-                  <iframe
+            <div class="col-sm-12 responsive-video" >
+                  <iframe  
                   src="https://www.youtube.com/embed/t26a6_Pgo2c"  frameborder="0" allowfullscreen>
                   </iframe>
             </div>
@@ -325,7 +325,7 @@
       <div  class="container-fluid bgimg-3 break_HowTo">
 
             
-            <div class="col-sm-9 responsive-video section_break_howto_title">
+            <div class="col-sm-12 responsive-video section_break_howto_title">
                   <iframe
                   src="https://www.youtube.com/embed/yW8lPojct4g" frameborder="0" allowfullscreen>
                   </iframe>
