@@ -93,8 +93,8 @@
 
                          <h2>How To Play:</h2>
                          <h3>
-                              1. Get controller on your smartphone <br>
-                              2. sign in as guest at www.airconsole.com on your mobile phone or download the Air Console app <br>
+                              1. Get a smartphone <br>
+                              2. Sign in as guest at www.airconsole.com on your mobile phone or download the Air Console app <br>
                               3. Launch the game on your computer<br>
                               4. <a href="http://www.airconsole.com/#http://house-rules.usask.ca/HouseRules_Build_v6/" target="_blank">CLICK HERE TO PLAY</a>
 
