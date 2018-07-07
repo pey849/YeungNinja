@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
             //Who I am section along with short info
             jQuery('.basic_info').addClass("hideme").viewportChecker({
                 classToAdd: 'visible animated fadeIn', // Class to add to the elements when they are visible
-                offset: 400
+                offset: 200
           });
 
             //Expanded info on who i am but just the title

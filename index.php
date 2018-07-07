@@ -6,7 +6,6 @@
       include 'php_includes/yeungninja_header.php';
       ?>
       
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
       <link rel="stylesheet" type="text/css" href="http://www.w3schools.com/lib/w3.css">
 
 
@@ -384,10 +383,10 @@
       </div>
 
       
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-      <script src="js/external/viewportchecker.js"></script> 
-      <script src="js/create_fades.js"></script>
-      <script src="js/photo_grid.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/external/viewportchecker.js"></script> 
+<script src="js/create_fades.js"></script>
+<script src="js/photo_grid.js"></script>
 
 
 </body>
